@@ -6,7 +6,7 @@
     font-family: Arial;
     paddings: 0px;
     background: rgb(44, 44, 44);
-    background-image: url("/Bilder/Hintergrundbild.jpg");
+    background-image: url("Hintergrundbild.jpg");
     background-attachment: fixed;
     margin-left: 0px;
     margin-right: 0px;
