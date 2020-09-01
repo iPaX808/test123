@@ -93,18 +93,24 @@
   /* Fake image */
   .fakeimg {
     background-color: #aaa;
-    width: 100%;
+    width: 400px;
     padding: 30px;
-    background-image: url(943148.jpg);
+    background-image: url(anfangderseite.jpg);
     height: auto;
     color:white;
-    height: 1080px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+
   }
   .fakeimg2 {
     background-color: #aaa;
     width: 100%;
     padding: 15px;
-    background-image: url(Download2.gif);
+    background-image: url(anfangderseite2.jpg);
+    margin:auto;
+    width:500px;
+    height:711px;
 
   }
   .fakeimg3{
